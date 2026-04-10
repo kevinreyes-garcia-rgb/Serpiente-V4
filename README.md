@@ -18,7 +18,7 @@ Hola este es un juegito, bueno recreacion del juego de la viborita
 <details>
    <summary>Instalacion</summary>
 
-[Link Directo]( https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/)
+[Link Directo]( https://kevinreyes-garcia-rgb.github.io/Serpiente-V5/)
 
 Link Copihable 
 ```
